@@ -1,10 +1,6 @@
 # KitPloit_Arsenal
 It is a tool that brings together exploits and news about security and vulnerabilities, with the intention of contributing to the open source community, developed from the site http://www.kitploit.com/ All rights reserved.
 
-[+] English;
-
-It is a tool that brings together exploits and news about security and vulnerabilities, with the intention of contributing to the open source community, developed from the site http://www.kitploit.com/ All rights reserved.
-
 [+] Portugues;
 
 É uma ferramenta que reúne explorações e notícias sobre segurança e vulnerabilidades, com a intenção de contribuir para a comunidade de código aberto, desenvolvida a partir do site http://www.kitploit.com/ Todos os direitos reservados.
