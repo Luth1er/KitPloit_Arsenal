@@ -30,3 +30,4 @@ $ Install Python2.7 or Python2.x
 $ pip2 install BeautifulSoup
 -
 $ pip2 install requests
+-
