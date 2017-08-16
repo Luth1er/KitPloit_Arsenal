@@ -63,7 +63,7 @@ import requests
 from bs4 import BeautifulSoup
 import sys,os,time
 global main_option, page
-
+page = 1
 
 os.system('clear')
 def slowprint(s):
@@ -338,7 +338,8 @@ def Exploit_Arsenal_Advanced_Scraping():
 												Lab_Collors.amarelo+Exploit_KitPloit_Setup.Search+Lab_Collors.azul,
 												Lab_Collors.vermelho+Exploit_KitPloit_Setup.Exit+Lab_Collors.azul
 												)
-	fastprint(Lab_Collors.purple+"                                                                                            Telegram: @DreadPirateRobert")
+	fastprint(Lab_Collors.amarelo+"   ☣ Telegram Channel: @Phantasm_Lab"+Lab_Collors.ciano+"               ☣ Telegram: @DreadPirateRobert"+Lab_Collors.vermelho+"           ☣ GitHub: github.com/Luth1er")
+	print Lab_Collors.Verde_claro+'......................................................................................................................................'
 	sair = False	
 	while not sair:
 		Choose_the_Option = raw_input(Lab_Collors.azul+'[+] Choose the option: ')
