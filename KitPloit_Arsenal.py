@@ -342,6 +342,19 @@ def Exploit_Arsenal_Advanced_Scraping():
 	print Lab_Collors.Verde_claro+'......................................................................................................................................'
 	sair = False	
 	while not sair:
+		os.system('clear')
+		print Lab_Collors.azul+Banner.Exploit_ban.format(Lab_Collors.ciano+Exploit_KitPloit_Setup.Exploit_Colector+Lab_Collors.azul, 
+													Lab_Collors.verde+Exploit_KitPloit_Setup.DDoS+Lab_Collors.azul, 
+													Lab_Collors.amarelo+Exploit_KitPloit_Setup.Remote_code_execution+Lab_Collors.azul, 
+													Lab_Collors.branco+Exploit_KitPloit_Setup.SQLI+Lab_Collors.azul,
+													Lab_Collors.purple+Exploit_KitPloit_Setup.Overflow+Lab_Collors.azul,
+													Lab_Collors.verde+Exploit_KitPloit_Setup.XSS+Lab_Collors.azul,
+													Lab_Collors.ciano+Exploit_KitPloit_Setup.File_Upload+Lab_Collors.azul,
+													Lab_Collors.amarelo+Exploit_KitPloit_Setup.Search+Lab_Collors.azul,
+													Lab_Collors.vermelho+Exploit_KitPloit_Setup.Exit+Lab_Collors.azul
+													)
+		fastprint(Lab_Collors.amarelo+"   ☣ Telegram Channel: @Phantasm_Lab"+Lab_Collors.ciano+"               ☣ Telegram: @DreadPirateRobert"+Lab_Collors.vermelho+"           ☣ GitHub: github.com/Luth1er")
+		print Lab_Collors.Verde_claro+'......................................................................................................................................'
 		Choose_the_Option = raw_input(Lab_Collors.azul+'[+] Choose the option: ')
 		if Choose_the_Option == '1':
 			url = "http://exploit.kitploit.com/"
@@ -423,6 +436,18 @@ def Kit_Ploit_Home():
 	print Lab_Collors.Verde_claro+'......................................................................................................................................'
 	sair = False
 	while not sair:
+		os.system('clear')
+		print Lab_Collors.Verde_claro+Banner.ban.format(
+													Lab_Collors.amarelo+Setup_Menu_Options.PL_Symbol+Lab_Collors.Verde_claro,
+													Lab_Collors.ciano+Setup_Menu_Options.Recents_Posts+Lab_Collors.Verde_claro, 
+													Lab_Collors.azul+Setup_Menu_Options.Android+Lab_Collors.Verde_claro, 
+													Lab_Collors.amarelo+Setup_Menu_Options.IPHONE+Lab_Collors.Verde_claro, 
+													Lab_Collors.branco+Setup_Menu_Options.Exploits_Arsenal+Lab_Collors.Verde_claro,
+													Lab_Collors.purple+Setup_Menu_Options.Advanced_search+Lab_Collors.Verde_claro,
+													Lab_Collors.verde+Setup_Menu_Options.Exit+Lab_Collors.Verde_claro)
+		fastprint(Lab_Collors.amarelo+"   ☣ Telegram Channel: @Phantasm_Lab"+Lab_Collors.ciano+"               ☣ Telegram: @DreadPirateRobert"+Lab_Collors.vermelho+"           ☣ GitHub: github.com/Luth1er")
+		print Lab_Collors.Verde_claro+'......................................................................................................................................'
+
 		main_option = raw_input(Lab_Collors.vermelho+'[-] Enter an Option: ')
 		if main_option == '1':
 			for url in urls.Recents:
