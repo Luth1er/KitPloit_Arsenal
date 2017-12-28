@@ -4,6 +4,7 @@ It is a tool that brings together exploits and news about security and vulnerabi
 # Video
 
 https://www.youtube.com/watch?v=8LxcgYq5f_w
+![alt tag](https://www.youtube.com/watch?v=8LxcgYq5f_w)
 
 [+] Portugues;
 
