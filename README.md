@@ -4,7 +4,8 @@ It is a tool that brings together exploits and news about security and vulnerabi
 # Video
 
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/8LxcgYq5f_w/0.jpg)]
+
+(http://www.youtube.com/watch?v=8LxcgYq5f_w"KitPloit")
 
 [+] Portugues;
 
