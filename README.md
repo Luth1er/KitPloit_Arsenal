@@ -10,13 +10,3 @@ It is a tool that brings together exploits and news about security and vulnerabi
 ![alt tag](http://imgur.com/ZE25bN3.jpg)
 ![alt tag](http://imgur.com/ih7NWtO.jpg)
 
-# Install Dependences...
-
-$ Install pip.
--
-$ Install Python2.7 or Python2.x
--
-$ pip2 install BeautifulSoup
--
-$ pip2 install requests
--
